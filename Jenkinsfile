@@ -1,4 +1,4 @@
-peline {
+pipeline {
 
  agent {
 
@@ -35,3 +35,4 @@ peline {
  }
 
 }
+
